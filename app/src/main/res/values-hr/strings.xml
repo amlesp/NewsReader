@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">News Reader</string>
+    <string name="all">Svi</string>
+    <string name="top">Top</string>
+    <string name="favorite">Favoriti</string>
+    <string name="search">Pretraži</string>
+    <string name="removed_from_favorites">Uklonjeno iz favorita</string>
+    <string name="added_to_favorites">Dodano u favorite</string>
+    <string name="no_internet">Nema internet konekcije</string>
+    <string name="take_a_break_with_news_reader">Napravi pauzu uz News Reader aplikaciju!</string>
+    <string name="no_result">Nema rezultata za</string>
+    <string name="favorites_list_empty">Lista favorita je prazna</string>
+</resources>

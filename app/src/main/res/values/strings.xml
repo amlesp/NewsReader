@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">News Reader</string>
+    <string name="all">All</string>
+    <string name="top">Top</string>
+    <string name="favorite">Favorite</string>
+    <string name="search">Search</string>
+    <string name="removed_from_favorites">Removed from favorites</string>
+    <string name="added_to_favorites">Added to favorites</string>
+    <string name="no_internet">No internet connection</string>
+    <string name="take_a_break_with_news_reader">Take a break with News Reader!</string>
+    <string name="no_result">No results for</string>
+    <string name="favorites_list_empty">Favorites list is empty</string>
+</resources>
